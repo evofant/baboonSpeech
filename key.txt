@@ -4,7 +4,7 @@ Dataset file contains results of exploratory modeling, performed in the APEX sof
 In articulatory modeling, three parameters were varied
 -Jaw height varied between 1 (minimum) and 25 (maximum) in increments of 1. 
 -Lips were varied as rounded or spread. 
--Larynx height was varied between 85 (minimum) and 110 (maximum in increcemens of 5. 
+-Larynx height was varied between 85 (minimum) and 110 (maximum) in increments of 5. 
 
 ---.wav files---
 .wav files are synthesized best fits for portions of baboon "wahoo" call formant data reported by Boë et al. (2017). 
