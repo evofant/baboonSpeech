@@ -1,5 +1,5 @@
 ---ExcelFile---
-Dataset file contains results of exploratory modeling, performed in the APEX software (Stark et al., 1996). 
+Dataset file contains results of exploratory modeling, performed in the APEX software (Stark et al., 1998). 
 
 In articulatory modeling, three parameters were varied
 -Jaw height varied between 1 (minimum) and 25 (maximum) in increments of 1. 
