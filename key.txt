@@ -10,3 +10,6 @@ In articulatory modeling, three parameters were varied
 .wav files are synthesized best fits for portions of baboon "wahoo" call formant data reported by Boë et al. (2017). 
 
 Both were synthesized at durations of 2s, with a constant f0 of 100 Hz. 
+
+---.R file---
+Can be used to recreate synthesis of the .wav files. 
